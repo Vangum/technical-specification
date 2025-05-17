@@ -1,0 +1,19 @@
+:root {
+    --color-text-primary: #243651;
+    --color-text-placeholder: #95a0af;
+    --color-bg-primary: #F9FAFB;
+    --color-bg-secondary: #ECECFD;
+    --color-bg-sidebar: #FFFFFF;
+    --color-border-hr: #E2E8F0;
+    --color-hover-primary: #3A4F72;
+    --color-hover-secondary: #E2E2FB;
+    --color-shadow: rgb(36, 54, 81, 0.3);
+}
+
+body {
+    background: var(--color-bg-primary);
+}
+
+.container {
+    display: flex;
+}

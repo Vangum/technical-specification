@@ -1,0 +1,17 @@
+.section {
+    flex: 1;
+    padding: 20px 30px;
+    color: var(--color-text-primary);
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.section-header .section-title {
+    font-size: 2rem;
+    font-weight: 600;
+}
